@@ -11,3 +11,5 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 -   Flexbox
 
 ### Deploy of the webpage
+
+https://wisdum-dev.github.io/order-summary-component-main/
